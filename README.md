@@ -11,11 +11,10 @@ This is an app prototype that allows the user to manage their courses, assignmen
   <img src="3.png" width="300">
   <img src="4.png" width="300">
   <img src="5.png" width="300">
-  <img src="6.png" width="300">
 </p>
 
 # Figma Design
-[Figma Design](https://www.figma.com/proto/9uOIHkk0QB2vxEs0680K00/OmarAbouChaer2?node-id=0-1&t=GYKw6ICc72rlbX8o-1)
+[Figma Design](https://www.figma.com/proto/W1MvMCQT7hlvk3IpADvF9i/OmarAbouChaer?node-id=0-1&t=SFNx4RdAItitAnA2-1)
 
 # Top 5 Desirable Functionalities
 <ol>
